@@ -127,6 +127,9 @@ justify-content: center;
   .img img {
     width: 100px;
   }
+  .efar{
+    width: 100%;
+  }
   .crui{
     margin-bottom: 40px;
     margin-top: 40px;
